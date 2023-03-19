@@ -1,8 +1,10 @@
+# THIS WILL NOT WORK, I HAVE JUST STARTED ATTEMPTING TO CONVERT IT TO
+
 # Project Zomboid Server Tools
 A set of tools to help you run Project Zomboid Dedicated Server.
 
 # Supported Plateform
-Ubuntu 20.04
+Windows
 
 # Features
 - Install pzserver easily in a single command
