@@ -1,4 +1,4 @@
-# THIS WILL NOT WORK, I HAVE JUST STARTED ATTEMPTING TO CONVERT IT TO
+# THIS WILL NOT WORK, I HAVE JUST STARTED ATTEMPTING TO CONVERT IT TO WORK ON WINDOWS
 
 # Project Zomboid Server Tools
 A set of tools to help you run Project Zomboid Dedicated Server.
